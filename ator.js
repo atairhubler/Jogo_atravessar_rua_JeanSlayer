@@ -7,7 +7,7 @@ let meusPontos = 0;
 
 
 function mostraAtor(){
-  image(imagemDoAtor, xAtor, yAtor, 40, 40);
+  image(imagemDoAtor, xAtor, yAtor, 30, 30);
 }
 
 function movimentaAtor(){
